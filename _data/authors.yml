@@ -3,13 +3,13 @@
 # You can change `author1` to your shortname.
 author1:
   # Replace <...> with your own (remove the < >)
-  name:              Jesse Mar Chun
-  email:             mailme@marchun.com
+  name:              MrHoju
+  email:             test
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Well it is me, Jesse!
+    Test
 
 
   # This photo will be used in the about section.
@@ -23,7 +23,7 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
-    #twitter:         jmarchun
+    #twitter:         
     #github:          qwtel/hydejack
     # download:        <url>
     # email:           <mail@domain.tld>
@@ -55,7 +55,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-     linkedin:        jesse-mar-chun
+     linkedin:        test
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
